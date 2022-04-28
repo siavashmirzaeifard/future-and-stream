@@ -1,16 +1,14 @@
-# future_and_stream
+# Future and Stream in Dart
 
-A new Flutter project.
+This project contains explanations and examples about Future and Stream in Dart with their difference.
 
-## Getting Started
+## Definition
+In asynchronous programming languages to make an API call or doing some task which takes time to done we will use async methods.
 
-This project is a starting point for a Flutter application.
+## For more explanations:
+Please go to lib/main.dart and follow the comments.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thanks to Vandad Nahavandipoor ->
+- [Vandad's GitHub](https://github.com/vandadnp)
+- [Vandad's LinkedIn](https://www.linkedin.com/in/vandadnp)
+- [Vandad's YouTube Channel](https://www.youtube.com/channel/UC8NpGP0AOQ0kX9ZRcohiPeQ)
